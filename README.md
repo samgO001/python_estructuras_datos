@@ -165,6 +165,6 @@ Tambien identifique que las comprehensions y las operaciones entre conjuntos per
 
 ## 8) Autor
 
-Aprendiz: **[Tu nombre completo]**  
-Ficha: **[Tu ficha]**  
+Aprendiz: **samgO001**  
+Ficha: **3144585**  
 Programa: **Analisis y Desarrollo de Software (SENA)**
